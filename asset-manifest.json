@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/bazzar-teknorix/static/css/main.bd3560d5.chunk.css",
-    "main.js": "/bazzar-teknorix/static/js/main.031af2d3.chunk.js",
-    "main.js.map": "/bazzar-teknorix/static/js/main.031af2d3.chunk.js.map",
+    "main.js": "/bazzar-teknorix/static/js/main.81c2eaa7.chunk.js",
+    "main.js.map": "/bazzar-teknorix/static/js/main.81c2eaa7.chunk.js.map",
     "runtime-main.js": "/bazzar-teknorix/static/js/runtime-main.6d086c87.js",
     "runtime-main.js.map": "/bazzar-teknorix/static/js/runtime-main.6d086c87.js.map",
-    "static/js/2.8d9776ec.chunk.js": "/bazzar-teknorix/static/js/2.8d9776ec.chunk.js",
-    "static/js/2.8d9776ec.chunk.js.map": "/bazzar-teknorix/static/js/2.8d9776ec.chunk.js.map",
+    "static/js/2.f7ef926b.chunk.js": "/bazzar-teknorix/static/js/2.f7ef926b.chunk.js",
+    "static/js/2.f7ef926b.chunk.js.map": "/bazzar-teknorix/static/js/2.f7ef926b.chunk.js.map",
     "index.html": "/bazzar-teknorix/index.html",
     "static/css/main.bd3560d5.chunk.css.map": "/bazzar-teknorix/static/css/main.bd3560d5.chunk.css.map",
-    "static/js/2.8d9776ec.chunk.js.LICENSE.txt": "/bazzar-teknorix/static/js/2.8d9776ec.chunk.js.LICENSE.txt"
+    "static/js/2.f7ef926b.chunk.js.LICENSE.txt": "/bazzar-teknorix/static/js/2.f7ef926b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.6d086c87.js",
-    "static/js/2.8d9776ec.chunk.js",
+    "static/js/2.f7ef926b.chunk.js",
     "static/css/main.bd3560d5.chunk.css",
-    "static/js/main.031af2d3.chunk.js"
+    "static/js/main.81c2eaa7.chunk.js"
   ]
 }
